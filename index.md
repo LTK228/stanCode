@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## *stanCode* Projects
+Hello there!\
+This repository holds my programming projects done during the period of stanCode SC101 course.
 
-You can use the [editor on GitHub](https://github.com/LTK228/stanCode/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LTK228/stanCode/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Project Source Codes:
+* [Hangman Game](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/hangman_game/hangman_ext.py)
+  * python semantics & syntax
+* [Weather Master](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/weather_master/weather_master.py)
+  * python semantics & syntax
+* [MyPhotoshop](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/myphotoshop/best_photoshop_award.py)
+  * image processing
+* [Pedestrian Removing Application](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/pedestrian_removing_application/stanCodoshop.py)
+  * image processing
+* [Breakout Game](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/break_out_game/breakout.py)
+  * animation & game designing
+* [Name Popularity Searching System](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/name_popularity_searching_system/babygraphics.py)
+  * data structure
+* [Boggle Game Solver](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/boggle_game_solver/boggle.py)
+  * recursive functions
